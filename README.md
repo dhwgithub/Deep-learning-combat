@@ -17,9 +17,15 @@
 
 ## 4、CNN framework summary
 同上tensorflow-gpu版本
+
 主要包含LeNet5、AlexNet、VGG16、GoogLeNet、ResNet经典卷积神经网络代码框架
 
 综合参考网上资料以及上述内容
+
+## tensorflow2_0_0
+采用tensorflow-gpu 2.0.0版本
+
+内容包括对tensorflow的基本使用架构，以及常用经典CNN、RNN的框架模型样例
 
 *附：由于文件大小限制，部分数据集下载链接如下（或网上搜索）：链接：https://pan.baidu.com/s/1O1ubwoTqJWzvB87YRn8_Ng 
 提取码：ujwb*
